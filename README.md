@@ -15,8 +15,6 @@ Data de Conclusão: 02/10/2023
 
 Equipe de Teste:
 - Líder de Teste: Vinicio Mortinho
-- Engenheiro de Teste 1: Nome do Engenheiro 1
-- Engenheiro de Teste 2: Nome do Engenheiro 2
 
 Tipos de Teste:
 - Teste Unitário
