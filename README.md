@@ -1,4 +1,4 @@
-Título do Plano de Testes: Nome do Plano
+Plano de teste jasmine
 
 Data de Criação:  02/10/2023
 Autor: Vinicio Mortinho
